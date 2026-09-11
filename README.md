@@ -43,4 +43,4 @@ Bark Worker Server 是一个 [Bark-Server](https://github.com/Finb/bark-server) 
 
 ## 其他
 
-部分代码修改自 [cwxiaos/bark-worker](https://github.com/cwxiaos/bark-worker)，遵循原许可协议，以 GPLv3 协议发布。
+部分代码修改自 [cwxiaos/bark-worker](https://github.com/cwxiaos/bark-worker)，遵循原许可协议，以 GPLv3 协议发布。123
